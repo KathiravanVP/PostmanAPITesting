@@ -1,6 +1,6 @@
 # 📬 Postman API Testing
 
-This repository contains a Postman collection for testing a sample Employee API.
+This repository contains API test collections created using **Postman**, designed for practicing RESTful API testing, assertions, and workflow automation. It includes basic to intermediate level API tests, focusing on CRUD operations, data validation, authentication, and test environments.
 
 It includes requests for all core CRUD operations:
 - ➕ Create Employee
@@ -9,5 +9,3 @@ It includes requests for all core CRUD operations:
 - ❌ Delete Employee
 
 ---
-
-## 📁 Project Structure
